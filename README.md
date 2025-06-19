@@ -1,2 +1,2 @@
 # WNMS_server
-wireless network management server
+캡스톤 디자인 2조
